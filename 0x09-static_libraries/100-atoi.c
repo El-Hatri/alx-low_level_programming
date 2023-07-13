@@ -1,4 +1,4 @@
-[200~#include "main.h"
+#include "main.h"
 
 /**
  *  * _atoi - convert a string into an integer.
@@ -27,3 +27,4 @@ int _atoi(char *s)
 						res *= sign;
 							return (res);
 }
+

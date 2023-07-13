@@ -1,4 +1,4 @@
-[200~#include "main.h"
+#include "main.h"
 #include <stddef.h>
 
 /**
@@ -18,3 +18,4 @@ char *_strchr(char *s, char c)
 									}
 				return (0);
 }
+
